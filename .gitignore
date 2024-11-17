@@ -1,0 +1,6 @@
+archives/
+build/
+dist/
+runtime/
+*.spec
+*.tmp
